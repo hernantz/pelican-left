@@ -1,7 +1,7 @@
 /* general */
 body {
   font-family: Helvetica;
-  background: #fff;
+  background: #f9f9f9;
   color: #444;
   line-height: 30px;
   margin: 0.8em 1em;
@@ -34,9 +34,10 @@ h4 {
 
 img {
   max-width: 100%;
+  border-radius: 0.3em;
   border: none; }
 
-code {
+p > code {
   background: #E8E8E8;
   font-family: inherit;
   padding: 0px 2px;
@@ -141,6 +142,7 @@ tr:nth-child(even) {
 
 /* code snippets */
 .highlight {
+  background: #fffbf1;
   font-size: 0.9em;
   border-left: 1px solid lightblue; }
 
@@ -167,6 +169,3 @@ h6:hover .headerlink {
   color: #b0b0b0;
   font-size: 0.8em;
   line-height: 1.4em; }
-
-.rounded-img {
-  border-radius: 5px; }
