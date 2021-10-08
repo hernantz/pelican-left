@@ -1,6 +1,6 @@
 # Pelican Left
 
-Left is a clean, whitespace-happy theme for [Pelican](http://getpelican.com).
+Left is a clean, whitespace-abundant theme for [Pelican](http://getpelican.com).
 Although the original theme was extracted from [scottchacon.com](http://scottchacon.com/)
 and targeted to [Jekyll](https://github.com/jekyll/jekyll), I've tried to adapt it so
 that it can be used with Pelican and modernized to use HTML5 semantic elements.
@@ -8,13 +8,14 @@ that it can be used with Pelican and modernized to use HTML5 semantic elements.
 A lot of space was intentionally left blank with the sole purpose of filling it with
 annoying ads.
 
+It support light and dark theme preferences.
 
-[![Pelican Left](http://i.imgur.com/RF4SD03.png)](http://hernantz.github.io "Live Demo")
+![Pelican left theme](https://user-images.githubusercontent.com/613512/136600035-25d1f764-4eea-49d8-b65e-ca5340d44895.png "Live Demo")
 
 
 ## Customization
 
-This theme tries to be compatible with the other themes and can be tuned 
+This theme tries to be compatible with the other themes and can be tuned
 with the following settings in your `pelicanconf.py` file.
 
 | Setting name     | What does it do?                                                                                                        |
